@@ -1,4 +1,4 @@
-#What are some differences between interfaces and types in TypeScript?
+##What are some differences between interfaces and types in TypeScript?
 In type script both interface and type are used to define the shape of data .But they have some key differences . Now let's talk about the interface and type aliases . 
 
 The basic types in Typescript include string,boolean,number,array,tuple,enum.Each has unique features and purposes,type provide a way of creating new names for exiting types.Type aliases don't define new types instead they provide an altarnative name for an exiting type.type script are divided into three major seciton there is : Any type,Built-In Type and User Defined type . 
